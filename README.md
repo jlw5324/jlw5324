@@ -1,0 +1,3 @@
+- 👋 Hi, I’m the support profile (proxy) for Jeremy Wood.
+- This `GitHub` account supports activities in context of company development, team collaboration, and segmentation.
+- 📫 How to reach me is mainly through email: `Jeremy.Wood@cybrcastle.com`
